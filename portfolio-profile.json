@@ -1,0 +1,139 @@
+{
+  "name": "Mikołaj Cieśliński",
+  "title": "Product-minded Software Engineer",
+  "location": "Poland",
+  "summary": "Software engineer with 9 years of experience delivering production applications across banking, HR, automotive, and B2B. Angular-focused, front-end heavy, and increasingly focused on applied AI.",
+  "experienceYears": 9,
+  "industries": [
+    "Banking",
+    "HR and payroll",
+    "Automotive",
+    "B2B"
+  ],
+  "focus": [
+    "Angular and front-end engineering",
+    "Full-stack product delivery",
+    "Applied AI and agent workflows",
+    "Requirements discovery and stakeholder communication"
+  ],
+  "skills": {
+    "ai": [
+      "AI agents",
+      "LangChain",
+      "LangGraph",
+      "RAG",
+      "Prompt engineering",
+      "LLM evaluations",
+      "LangSmith",
+      "Function calling"
+    ],
+    "frontend": [
+      "Angular",
+      "TypeScript",
+      "RxJS",
+      "NgRx",
+      "NGXS",
+      "HTML",
+      "CSS and SCSS",
+      "BEM",
+      "Angular Material"
+    ],
+    "backend": [
+      "Python",
+      "FastAPI",
+      "Java",
+      "Spring Boot",
+      "Node.js",
+      "NestJS",
+      "PostgreSQL",
+      "REST APIs"
+    ],
+    "delivery": [
+      "Accessibility",
+      "Requirements clarification",
+      "Estimation",
+      "Stakeholder communication",
+      "End-to-end ownership"
+    ]
+  },
+  "projects": [
+    {
+      "name": "Software Factory",
+      "type": "Freelance project",
+      "summary": "A freelance project built to explore AI-agent workflows and agentic software development.",
+      "technologies": [
+        "AI agents",
+        "LangChain",
+        "LangGraph"
+      ]
+    },
+    {
+      "name": "QuestionKit",
+      "type": "Product",
+      "period": "2025–present",
+      "summary": "Owned design and delivery of a multi-tenant technical interview and learning platform across frontend, backend, and AI. Built an in-session learning assistant, automated interview summaries, and an agent that generates tailored questions from natural language.",
+      "technologies": [
+        "Angular",
+        "Java and Spring Boot",
+        "Python and FastAPI",
+        "LangChain",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "name": "Enterprise client products",
+      "type": "Client engagements",
+      "summary": "Delivered banking authentication, payroll, customer-facing banking, and B2B EV-charging applications; led UI work and supported junior engineers.",
+      "technologies": [
+        "Angular",
+        "TypeScript",
+        "Accessibility",
+        "REST APIs"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "role": "Software Engineer",
+      "organization": "QuestionKit",
+      "period": "2025–present"
+    },
+    {
+      "role": "Software Engineer, client projects",
+      "organization": "Consultant",
+      "period": "2019–2025"
+    },
+    {
+      "role": "Software Engineer",
+      "organization": "House of Angular",
+      "period": "2017–2019"
+    }
+  ],
+  "clientsAndTeams": [
+    "EY",
+    "ValueAdd",
+    "hero/dot",
+    "MHR",
+    "Backbase",
+    "BMO"
+  ],
+  "education": {
+    "degree": "Computer Science",
+    "institution": "Polish-Japanese Academy of Information Technology",
+    "period": "2017–2020"
+  },
+  "languages": [
+    {
+      "name": "Polish",
+      "level": "Native"
+    },
+    {
+      "name": "English",
+      "level": "C1"
+    }
+  ],
+  "contact": {
+    "email": "mikolajcieslinski3@gmail.com",
+    "phone": "+48 501 308 777"
+  }
+}
