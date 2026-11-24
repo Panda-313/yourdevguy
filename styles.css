@@ -42,12 +42,12 @@ button {
 }
 
 .site-header {
-  width: min(1280px, calc(100% - 64px));
+  width: 100%;
   height: 82px;
   position: sticky;
   top: 0;
   z-index: 20;
-  margin-inline: auto;
+  padding-inline: max(32px, calc((100% - 1280px) / 2));
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -1472,13 +1472,13 @@ h3 {
     scroll-padding-top: 72px;
   }
 
-  .section-wrap,
-  .site-header {
+  .section-wrap {
     width: calc(100% - 40px);
   }
 
   .site-header {
     height: 68px;
+    padding-inline: 20px;
   }
 
   .menu-toggle {
